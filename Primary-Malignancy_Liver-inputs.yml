@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/primary-malignancy_liver-neoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_liver-carcinoma---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_liver---primary.py
+inputModule5:
+  class: File
+  path: python/mhepatocellular-primary-malignancy_liver---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_liver-mhepatoma---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_liver-carcinoma---secondary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_liver-neoplasm---secondary.py
+inputModule9:
+  class: File
+  path: python/other-primary-malignancy_liver---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
